@@ -29,7 +29,7 @@ lgd.FontSize = 14;
 
 
 %% visibility function
-close all
+
 figure
 hold on
 plot(xrec,g,'Displayname','g')
